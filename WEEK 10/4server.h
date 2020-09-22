@@ -1,0 +1,1 @@
+void check_magic_square(int limit);
